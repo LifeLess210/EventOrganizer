@@ -1,0 +1,28 @@
+html, body {
+    height: 100%;
+    width: 100%;
+    margin: 0;
+    display: flex;
+    flex-direction: column;
+}
+
+* {
+    margin: 0;
+    border: 0;
+}
+
+.nav{
+    display: flex;
+    justify-content: center;
+    background-color: #0075f7;
+}
+
+.navSvg {
+    width: 50px;
+    margin: 5px 5px;
+    border-radius: 15px;
+}
+
+.navSvg:hover {
+    background-color: deepskyblue;
+}

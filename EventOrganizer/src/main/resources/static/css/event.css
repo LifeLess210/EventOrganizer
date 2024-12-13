@@ -1,0 +1,15 @@
+.eventForm{
+    flex:4;
+    height: 100%;
+    margin: 10px;
+}
+.timeTable {
+    flex: 7;
+    height: 100%;
+    border-left: solid black 1px;
+}
+.eventContent{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
